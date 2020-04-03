@@ -1,4 +1,4 @@
-[Demo](https://khushbu-2112.github.io/Angular-example/.)
+[Demo](https://khushbu-2112.github.io/Angular-example/)
 
 # AngularCalculator
 
